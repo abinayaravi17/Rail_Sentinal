@@ -1,0 +1,30 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+
+# Compiled files
+*.o
+*.exe
+
+# VS Code
+.vscode/
+
+# Arduino IDE
+*.ino.cpp
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log

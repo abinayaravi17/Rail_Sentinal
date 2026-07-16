@@ -1,0 +1,9 @@
+# Railway Sentinel
+
+This project is developed using:
+
+- ESP32
+- Arduino IDE
+- Embedded C++
+- Blynk IoT Platform
+- Telegram Bot API
